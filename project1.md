@@ -1,6 +1,6 @@
 [Back to Portfolio](./)
 
-Project 1: Bible Look Up
+Project 1: Bible Lookup
 ===============
 
 -   **Class:** CSCI 325

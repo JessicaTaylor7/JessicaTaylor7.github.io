@@ -30,13 +30,13 @@ Fig 1. The main menu
 ![screenshot](images/Project1/Search.png)  
 Fig 2. The search feature
 
-![screenshot](images/dummy_thumbnail.jpg)  
+![screenshot](images/Project1/CompareTranslations.png)  
 Fig 3. The compare translations feature
 
-![screenshot](images/dummy_thumbnail.jpg)  
+![screenshot](images/Project1/CompareOriginal.png)  
 Fig 4. The compare original language feature
 
-![screenshot](images/dummy_thumbnail.jpg)  
+![screenshot](images/Project1/RandomVerse.png)  
 Fig 5. The random verse feature
 
 ## 3. Additional Considerations

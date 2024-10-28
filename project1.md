@@ -27,7 +27,7 @@ Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eius
 ![screenshot](images/Project1/MainMenu.png)  
 Fig 1. The main menu
 
-![screenshot](images/dummy_thumbnail.jpg)  
+![screenshot](images/Project1/Search.png)  
 Fig 2. The search feature
 
 ![screenshot](images/dummy_thumbnail.jpg)  

@@ -42,10 +42,10 @@ Ethics Papers
 -   **Class:** CSCI 405: Principals of Cybersecurity
 -   **Grade:** A
 
-### [Paper 3 Title](/pdf/sample_presentation.pdf)
+### [Paper 3: Ethics In Programming](/pdf/CSCI_332_Paper.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class:** CSCI 332: Applied Networking
+-   **Grade:** A
 
 ---
 

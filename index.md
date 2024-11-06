@@ -37,10 +37,10 @@ Ethics Papers
 -   **Class:** CSCI 235: Object-Oriented Programming
 -   **Grade:** A
 
-### [Paper 2 Title](/pdf/sample_presentation.pdf)
+### [Paper 2: Edward Snowden: Justified or Not?](/pdf/CSCI_405_Paper.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class:** CSCI 405: Principals of Cybersecurity
+-   **Grade:** A
 
 ### [Paper 3 Title](/pdf/sample_presentation.pdf)
 

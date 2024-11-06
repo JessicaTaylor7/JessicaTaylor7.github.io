@@ -52,10 +52,10 @@ Ethics Papers
 Presentations
 -------------
 
-### [Presentation 1 Title](/pdf/sample_presentation.pdf)
+### [Presentation 1: SolarWinds TED Talk](/pdf/CSCI_352_Presentation.pdf)
 
-- **Class:** 
-- **Grade:**
+- **Class:** CSCI 352: Cyber Defense
+- **Grade:** A
 
 
 ### [Presentation 2 Title](/pdf/sample_presentation.pdf)

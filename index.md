@@ -32,7 +32,7 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1: An Ethical Dilemma in Cybersecurity](/pdf/.pdf)
+### [Paper 1: An Ethical Dilemma in Cybersecurity](/pdf/CSCI_235_Paper.pdf)
 
 -   **Class:** CSCI 235: Object-Oriented Programming
 -   **Grade:** A

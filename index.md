@@ -58,10 +58,10 @@ Presentations
 - **Grade:** A
 
 
-### [Presentation 2 Title](/pdf/sample_presentation.pdf)
+### [Presentation 2 Data Analysis & Visualization](/pdf/CSCI_409_Presentation.pdf)
 
-- **Class:** 
-- **Grade:**
+- **Class:** CSCI 409: Fundamentals of Artificial Intelligence
+- **Grade:** A
 
 ---
 

@@ -64,6 +64,12 @@ Presentations
 - **Class:** CSCI 409: Fundamentals of Artificial Intelligence
 - **Grade:** A
 
+
+### [Presentation 3: Hackable Medical Devices](/pdf/HackableMedicalDevices.pdf)
+
+- **Class:** CSCI 301: Survey of Scripting Languages
+- **Grade:** A
+
 ---
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/csu-cs/csci-portfolio">CSU-CS</a></p>

@@ -11,7 +11,7 @@ Project 2: Message Encryption/Decryption
 
 ## Project description
 
-This program is a project for CSCI 452: Network Penetration Testing & Ethical Hacking. This program allows users to enter a message to be encrypted and then enter the encrypted message to be decrypted back to original form. The program source code is split into separate programs for encryption and decryption. 
+This program is a project for CSCI 452: Network Penetration Testing & Ethical Hacking. This program allows users to enter a message to be encrypted and then enter the encrypted message to be decrypted back to original form. The program encrypts messages using a combination of the Caesar Cipher and Columnar Transposition. The program source code is split into separate programs for encryption and decryption. 
 
 ## How to run the program
 
@@ -21,7 +21,7 @@ To encrypt a message: python3 MessageEncryption.py
 
 To decrypt a message: python3 MessageDecryption.py
 
-Follow the commands to encrypt/decrypt your message
+Follow the program commands to encrypt/decrypt your message
 
 
 ## UI Design
@@ -38,19 +38,19 @@ Figure 4 shows the encryption/decryption program working with a basic sentence a
 
 Figure 5 shows the encryption/decryption program working with a basic sentence that includes numbers and characters: Test123..
 
-![screenshot](images/Project1/OneWord.png)
+![screenshot](images/Project2/OneWord.png)
 Fig 1. One word
 
-![screenshot](images/Project1/BasicSentenceToo.png)  
+![screenshot](images/Project2/BasicSentenceToo.png)  
 Fig 2. One sentence
 
-![screenshot](images/Project1/BasicSentence.png)  
+![screenshot](images/Project2/BasicSentence.png)  
 Fig 3. Longer sentence
 
-![screenshot](images/Project1/Character.png)  
+![screenshot](images/Project2/Character.png)  
 Fig 4. Sentence and character
 
-![screenshot](images/Project1/Numbers.png)  
+![screenshot](images/Project2/Numbers.png)  
 Fig 5. Sentence with numbers and characters
 
 

@@ -1,11 +1,11 @@
 [Back to Portfolio](./)
 
-Project 1: Bible Lookup
+Project 2: Message Encryption/Decryption
 ===============
 
--   **Class:** CSCI 325
+-   **Class:** CSCI 452
 -   **Grade:** A
--   **Language(s):** Java
+-   **Language(s):** Python
 -   **Source Code Repository:** [features/mastering-markdown](https://github.com/JessicaTaylor7/Projects/tree/main/BibleLookup)  
     (Please [email me](mailto:JMTaylor2@csustudent.net?subject=GitHub%20Access) to request access.)
 

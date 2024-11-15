@@ -13,9 +13,10 @@ Programming Projects
 ![Project 1 Thumbnail Name](images/Project1/Search.png)
 
 ---
-### [Project 2 Title | CSCI 315](project1)
+### [Project 2: Encryption & Decryption | CSCI 315](project2)
 
-![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 2 Thumbnail Name](images/Project2/BasicSentence.png)
+![Project 2 Thumbnail Name](images/Project2/Numbers.png)
 
 ---
 ### [Project 3 Title | CSCI 325](project1)

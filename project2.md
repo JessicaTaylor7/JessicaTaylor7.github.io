@@ -36,7 +36,7 @@ Figure 3 shows the encryption/decryption program working with a slightly longer,
 
 Figure 4 shows the encryption/decryption program working with a basic sentence and a character: I love my pets!
 
-Figure 5 shows the encryption/decryption program working with a basic sentence that includes numbers and characters: Test123..
+Figure 5 shows the encryption/decryption program working with a basic sentence that includes numbers and characters: Test123.. 
 
 ![screenshot](images/Project2/OneWord.png)
 Fig 1. One word

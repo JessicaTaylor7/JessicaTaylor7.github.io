@@ -49,10 +49,11 @@ Fig 2. Angle Two
 Fig 3. Angle Three
 
 
+
 ## Additional Information
 
 ### [Presentation: Data Analysis & Visualization](/pdf/CSCI_409_Presentation.pdf)
 
-### [Report: Data Analysis & Visualization] (/pdf/Project03_Report.pdf)
+### [Report: Data Analysis & Visualization](/pdf/Project03_Report.pdf)
 
 [Back to Portfolio](./)

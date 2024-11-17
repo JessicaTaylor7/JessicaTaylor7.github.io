@@ -65,6 +65,7 @@ Presentations
 
 - **Class:** CSCI 409: Fundamentals of Artificial Intelligence
 - **Grade:** A
+- **Click [here](/project3) to view associated project**
 
 
 ### [Presentation 3: Hackable Medical Devices](/pdf/HackableMedicalDevices.pdf)

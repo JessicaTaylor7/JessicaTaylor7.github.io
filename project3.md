@@ -50,6 +50,8 @@ Fig 3. Angle Three
 
 
 ## Additional Information
+To see my interpretation of the data visualized in this project, please see the project presentation: 
 
+To see a breakdown of my reasoning for choosing these specific angles and how I completed the code for the project, please see the project report: 
 
 [Back to Portfolio](./)

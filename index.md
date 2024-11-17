@@ -21,9 +21,9 @@ Programming Projects
 ---
 ### [Project 3: Data Analysis & Visualization | CSCI 409](project3)
 
-![Project 3 Thumbnail Name](images/Project3/Angle1.jpg)
-![Project 3 Thumbnail Name](images/Project3/Angle2.jpg)
-![Project 3 Thumbnail Name](images/Project3/Angle3.jpg)
+![Project 3 Thumbnail Name](images/Project3/Angle1.png)
+![Project 3 Thumbnail Name](images/Project3/Angle2.png)
+![Project 3 Thumbnail Name](images/Project3/Angle3.png)
 
 ---
 ### [Project 4 Title | CSCI 332](project1)

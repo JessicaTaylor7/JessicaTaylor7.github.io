@@ -1,57 +1,55 @@
 [Back to Portfolio](./)
 
-Project 2: Message Encryption/Decryption
+Project 3: Data Analysis & Visualization
 ===============
 
--   **Class:** CSCI 452
+-   **Class:** CSCI 409
 -   **Grade:** A
 -   **Language(s):** Python
--   **Source Code Repository:** [features/mastering-markdown](https://github.com/JessicaTaylor7/Projects/tree/main/Encryption&Decryption)  
+-   **Source Code Repository:** [features/mastering-markdown](https://github.com/JessicaTaylor7/Projects/tree/main/DataAnalysis&Visualization)  
     (Please [email me](mailto:JMTaylor2@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-This program is a project for CSCI 452: Network Penetration Testing & Ethical Hacking. This program allows users to enter a message to be encrypted and then enter the encrypted message to be decrypted back to original form. The program encrypts messages using a combination of the Caesar Cipher and Columnar Transposition. The program source code is split into separate programs for encryption and decryption. 
+This program is a project for CSCI 409: Fundamentals of Artificial Intelligence. This program allows for visualization of data from a specific data set. The data set used in this project focuses on infectious diseases in California from 2001 to 2023. The data is grouped by disease, county, number of cases (female, male, total), year, population, rate, lower 95 CI, upper 95 CI. For this program, I chose three angles to represent the data: 
+
+1.	Focusing on the top 10 most prevalent diseases, show case numbers for each disease over years (2001 to 2023)
+2.	Show total case numbers of a specific top 10 disease in each county
+3.	Focusing on the top 10 most prevalent diseases, show total number of cases for female, male, and both genders
+
+For this program, I used pandas and matplotlib libraries in Python to sort through the data set, make calculations, and create charts/graphs for visualization of the data. 
+
 
 ## How to run the program
 
 The project was built and tested in the Visual Studio Code environment using Python 3. To run the program using the terminal and Python 3, first change the directory to the directory in which the program files are stored. 
 
-To encrypt a message: python3 MessageEncryption.py
+To run the program: python3 project3.py
 
-To decrypt a message: python3 MessageDecryption.py
-
-Follow the program commands to encrypt/decrypt your message
+The program will generate three charts/graphs, one for each angle of data representation. 
 
 
 ## UI Design
 
-The user interacts with this program through the command line. When the encryption program is started, the user will be prompted to enter a message to encrypt. After entering a message to encrypt, the program will display the encrypted message. Likewise, when the decryption program is started, the user will be prompted to enter an encrypted message to decrypt. After entering an encrypted message, the program will display the decrypted message. 
+The user interacts with this program through the command line. When the program begins, it will generate three charts/graphs, one for each angle of data representation.
 
-Figure 1 shows the encryption/decryption program working with basic one word input: Hello
+Figure 1 shows a line graph representing the top 10 most prevalent diseases, showing case numbers for each disease over years (2001 to 2023)
 
-Figure 2 shows the encryption/decryption program working with basic one sentence input: Felix is my cat
+Figure 2 shows a bar graph representing total case numbers of a specific top 10 disease in each county
 
-Figure 3 shows the encryption/decryption program working with a slightly longer, but still basic one sentence input: My favorite color is pink
+Figure 3 shows a bar graph representing the top 10 most prevalent diseases, showing total number of cases for female, male, and both genders
 
-Figure 4 shows the encryption/decryption program working with a basic sentence and a character: I love my pets!
+![screenshot](images/Project3/Angle1.png)
+Fig 1. Angle One
 
-Figure 5 shows the encryption/decryption program working with a basic sentence that includes numbers and characters: Test123..
+![screenshot](images/Project3/Angle2.png)  
+Fig 2. Angle Two
 
-![screenshot](images/Project2/OneWord.png)
-Fig 1. One word
+![screenshot](images/Project3/Angle3.png)  
+Fig 3. Angle Three
 
-![screenshot](images/Project2/BasicSentenceToo.png)  
-Fig 2. One sentence
 
-![screenshot](images/Project2/BasicSentence.png)  
-Fig 3. Longer sentence
-
-![screenshot](images/Project2/Character.png)  
-Fig 4. Sentence and character
-
-![screenshot](images/Project2/Numbers.png)  
-Fig 5. Sentence with numbers and characters
+## Additional Information
 
 
 [Back to Portfolio](./)

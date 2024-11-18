@@ -6,7 +6,7 @@ Project 2: Message Encryption/Decryption
 -   **Class:** CSCI 452
 -   **Grade:** A
 -   **Language(s):** Python
--   **Source Code Repository:** [features/mastering-markdown](https://github.com/JessicaTaylor7/Projects/tree/main/Encryption&Decryption)  
+-   **Source Code Repository:** [features/mastering-markdown](https://github.com/JessicaTaylor7/Encryption-Decryption)  
     (Please [email me](mailto:JMTaylor2@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description

@@ -6,7 +6,7 @@ Project 3: Data Analysis & Visualization
 -   **Class:** CSCI 409
 -   **Grade:** A
 -   **Language(s):** Python
--   **Source Code Repository:** [features/mastering-markdown](https://github.com/JessicaTaylor7/Projects/tree/main/DataAnalysis&Visualization)  
+-   **Source Code Repository:** [features/mastering-markdown](https://github.com/JessicaTaylor7/Data-Analysis-Visualization)  
     (Please [email me](mailto:JMTaylor2@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description

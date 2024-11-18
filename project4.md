@@ -20,16 +20,16 @@ The components for this project are written in Verilog and require an environmen
 
 To compile and run the ripple carry adder: 
 
-Compile: iverilog -o TestRipple TestRipple.v Ripple.v FullAdder.v
+**Compile:** iverilog -o TestRipple TestRipple.v Ripple.v FullAdder.v
 
-Run: vvp TestRipple
+**Run:** vvp TestRipple
 
 
 To compile and run the control ROM: 
 
-Compile: iverilog -o DecoderTest DecoderTest.v Decoder.v
+**Compile:** iverilog -o DecoderTest DecoderTest.v Decoder.v
 
-Run: vvp DecoderTest
+**Run:** vvp DecoderTest
 
 
 ## UI Design

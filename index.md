@@ -26,7 +26,7 @@ Programming Projects
 ![Project 3 Thumbnail Name](images/Project3/Angle3.png)
 
 ---
-### [Project 4 Title | CSCI 332](project1)
+### [Project 4: Processor Components | CSCI 330](project4)
 
 ![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
 

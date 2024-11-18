@@ -18,7 +18,7 @@ This is project for CSCI 330: Computer Architecture. The goal for this project i
 
 The components for this project are written in Verilog and require an environment that can run Verilog programs. Some of the components will not produce output, but the two components that will produce output are the ripple carry adder and control ROM. Both components have a main file and test file. To run the program, first ensure that the terminal directory is set to where the program files are stored. 
 
-To compile and run the ripple carry adder: 
+**To compile and run the ripple carry adder:** 
 
 **Compile:** iverilog -o TestRipple TestRipple.v Ripple.v FullAdder.v
 

@@ -25,7 +25,7 @@ The components for this project are written in Verilog and require an environmen
 **Run:** vvp TestRipple
 
 
-To compile and run the control ROM: 
+**To compile and run the control ROM:** 
 
 **Compile:** iverilog -o DecoderTest DecoderTest.v Decoder.v
 

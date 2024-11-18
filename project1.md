@@ -6,7 +6,7 @@ Project 1: Bible Lookup
 -   **Class:** CSCI 325
 -   **Grade:** A
 -   **Language(s):** Java
--   **Source Code Repository:** [features/mastering-markdown](https://github.com/JessicaTaylor7/Projects/tree/main/BibleLookup)  
+-   **Source Code Repository:** [features/mastering-markdown](https://github.com/JessicaTaylor7/BibleLookup)  
     (Please [email me](mailto:JMTaylor2@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description

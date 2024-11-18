@@ -28,7 +28,9 @@ Programming Projects
 ---
 ### [Project 4: Processor Components | CSCI 330](project4)
 
-![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 4 Thumbnail Name](images/Project4/Ripple.jpg)
+![Project 4 Thumbnail Name](images/Project4/controlROM1.png)
+![Project 4 Thumbnail Name](images/Project4/controlROM2.png)
 
 ---
 

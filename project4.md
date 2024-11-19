@@ -6,7 +6,7 @@ Project 4: Processor Components
 -   **Class:** CSCI 330
 -   **Grade:** B
 -   **Language(s):** Verilog
--   **Source Code Repository:** [features/mastering-markdown](https://github.com/JessicaTaylor7/Projects/tree/main/ProcessorComponents)  
+-   **Source Code Repository:** [features/mastering-markdown](https://github.com/JessicaTaylor7/Single-Cycle-Processor)  
     (Please [email me](mailto:JMTaylor2@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description

@@ -4,7 +4,7 @@ Portfolio
 Programming Projects
 --------------------
 
-*For access to my private project repositories, please [email me](mailto:example@JMTaylor2@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
+*For access to my private project repositories, please [email me](mailto:example@jessetaylor_98@yahoo.com?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
 ### [Project 1: Bible Lookup | CSCI 325](project1)

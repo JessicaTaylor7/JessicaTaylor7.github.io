@@ -7,7 +7,7 @@ Project 3: Data Analysis & Visualization
 -   **Grade:** A
 -   **Language(s):** Python
 -   **Source Code Repository:** [features/mastering-markdown](https://github.com/JessicaTaylor7/Data-Analysis-Visualization)  
-    (Please [email me](mailto:JMTaylor2@csustudent.net?subject=GitHub%20Access) to request access.)
+    (Please [email me](mailto:jessetaylor_98@yahoo.com?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
